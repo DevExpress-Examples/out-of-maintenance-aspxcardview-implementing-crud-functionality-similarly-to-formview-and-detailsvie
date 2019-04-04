@@ -3,7 +3,7 @@
 
 * [Product.cs](./CS/App_Code/Product.cs) (VB: [ProductDataContext.vb](./VB/App_Code/ProductDataContext.vb))
 * [ProductDataContext.cs](./CS/App_Code/ProductDataContext.cs) (VB: [ProductDataContext.vb](./VB/App_Code/ProductDataContext.vb))
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxCardView - Implementing CRUD functionality similarly to FormView and DetailsView
