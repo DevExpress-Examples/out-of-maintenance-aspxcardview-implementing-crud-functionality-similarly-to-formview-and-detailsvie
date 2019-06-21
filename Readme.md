@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxCardView - Implementing CRUD functionality similarly to FormView and DetailsView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t496745/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to implement CRUD (create, read, update, delete) operations in the manner supported by FormView and DetailsView. In other words, records should be edited one by one. The easiest way to accomplish this task is to use <a href="https://documentation.devexpress.com/#AspNet/clsDevExpressWebASPxCardViewtopic"><strong>ASPxCardView</strong></a>. This control supports data binding and data editing operations out of the box. It also provides the form-like layout and allows you to generate required editors with ease.</p>
