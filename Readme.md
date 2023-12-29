@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128530351/16.2.5%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T496745)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -12,9 +7,6 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxCardView - Implementing CRUD functionality similarly to FormView and DetailsView
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t496745/)**
-<!-- run online end -->
 
 
 <p>This example illustrates how to implement CRUD (create, read, update, delete) operations in the manner supported by FormView and DetailsView. In other words, records should be edited one by one. The easiest way to accomplish this task is to use <a href="https://documentation.devexpress.com/#AspNet/clsDevExpressWebASPxCardViewtopic"><strong>ASPxCardView</strong></a>. This control supports data binding and data editing operations out of the box. It also provides the form-like layout and allows you to generate required editors with ease.</p>
